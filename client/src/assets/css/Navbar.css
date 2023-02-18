@@ -1,0 +1,29 @@
+
+  .navbar {
+    border-bottom: 2px solid #e9ecef;
+  }
+  
+  
+
+  .get-in-touch-btn {
+    border: 1px solid gray !important;
+    border-radius: 50px !important;
+    transition: all 0.3s !important;
+    padding: 10px 20px;
+    color: white !important;
+    background-color: rgb(239, 21, 21) !important;
+   
+  }
+ 
+
+  
+ 
+  
+  .get-in-touch-btn:hover {
+    background-color: white !important;
+    color: rgb(21, 132, 60) !important ;
+    font-weight: bold;
+    cursor: pointer !important;
+  }
+  
+ 
